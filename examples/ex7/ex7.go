@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/mostafa-asg/dag"
-)
+import "github.com/edwsel/go-dag"
 
 func main() {
 

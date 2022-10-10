@@ -1,7 +1,9 @@
 package main
 
-import "github.com/mostafa-asg/dag"
-import "github.com/mostafa-asg/dag/pipeline"
+import (
+	"github.com/edwsel/go-dag"
+	"github.com/edwsel/go-dag/pipeline"
+)
 
 func main() {
 

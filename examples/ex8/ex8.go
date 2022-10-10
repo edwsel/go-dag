@@ -3,7 +3,7 @@ package main
 import (
 	"sync"
 
-	"github.com/mostafa-asg/dag"
+	"github.com/edwsel/go-dag"
 )
 
 var wg = &sync.WaitGroup{}
