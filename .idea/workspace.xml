@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="871d6ab3-5c2e-435a-898b-be200c99cbbf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/examples/ex1/ex1.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ex1/ex1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/ex2/ex2.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ex2/ex2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/ex3/ex3.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ex3/ex3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/ex4/ex4.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ex4/ex4.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/ex5/ex5.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ex5/ex5.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/ex6/ex6.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ex6/ex6.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/ex7/ex7.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ex7/ex7.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/ex8/ex8.go" beforeDir="false" afterPath="$PROJECT_DIR$/examples/ex8/ex8.go" afterDir="false" />
-    </list>
+    <list default="true" id="871d6ab3-5c2e-435a-898b-be200c99cbbf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
